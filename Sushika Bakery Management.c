@@ -254,7 +254,7 @@ int displaybill()
 		{
 			f=1;
 			printf("\n\n               SUSHIKA BAKERY                                      ");
-			printf("\n        New Baneshwor Kathmandu Nepal                         ");
+			printf("\n        New Baneshwor, Kathmandu Nepal                         ");
 			printf("\n          sushikabakery@gmail.com\n\t\t9808080608                ");
 			printf("\n\n-----------------YOUR BILL---------------------------");
 		    printf("\nCustomer Name=%s",bi.custname);
@@ -315,7 +315,7 @@ int deletebill()
 		}
 		fclose(fp2);
 		fclose(fp3);
-		printf("\n----Your---BILL---is ----deleated-----");
+		printf("\n----Your---BILL---is----deleated-----");
 	}
 	else
 	{
